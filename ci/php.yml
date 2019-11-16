@@ -21,3 +21,5 @@ jobs:
 
     # - name: Run test suite
     #   run: composer run-script test
+    
+    #   run:truthfinder premium free run script test
